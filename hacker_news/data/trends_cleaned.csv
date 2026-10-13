@@ -1,0 +1,94 @@
+post_id,title,category,score,num_comments,author,collected_at
+49461817,Show HN: The load-bearing vocabulary of Claude,entertainment,669,319,Labo333,2026-08-29 17:44:55+00:00
+49471965,"Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",entertainment,219,56,elyosh,2026-08-29 17:45:32+00:00
+49471407,Show HN: We built open OpenRouter that turns usage into a better model,entertainment,212,46,SilenN,2026-08-29 17:46:45+00:00
+49468816,Show HN: Voronoi Go,entertainment,155,26,igpay,2026-08-29 17:48:23+00:00
+49467551,"Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",entertainment,87,66,sachinneravath,2026-08-29 17:48:48+00:00
+49445286,Show HN: Buslens – where can I get to by bus? (UK),entertainment,81,55,RobinL,2026-08-29 17:50:17+00:00
+49476894,Show HN: SubSmith – Turn your own videos into language-learning material,entertainment,69,51,IbrahimF96,2026-08-29 17:44:08+00:00
+49447178,Show HN: Typebase – A single-folder back end you write in TypeScript,entertainment,56,10,andrewww-dev,2026-08-29 17:42:12+00:00
+49483038,"Show HN: Sesame - a local-first, open-source password manager",entertainment,56,79,d0mkaaa,2026-08-29 17:43:56+00:00
+49452037,Show HN: Build your own theme park,entertainment,55,25,thealexanderlee,2026-08-29 17:48:06+00:00
+49418813,Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo,entertainment,54,36,rbanffy,2026-08-29 17:43:58+00:00
+49465291,Show HN: Restoredrill – proves your Postgres backups restore,entertainment,47,23,ahmadpiran,2026-08-29 17:49:37+00:00
+49464459,Show HN: RealDiff – runtime behavior diffing for pull requests (six languages),entertainment,40,10,issacnitin,2026-08-29 17:50:09+00:00
+49428343,"Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",entertainment,36,8,gmays,2026-08-29 17:43:20+00:00
+49466704,"Show HN: Watches user sessions, finds bugs that matter, and fixes them",entertainment,36,11,aray07,2026-08-29 17:46:24+00:00
+49468507,Show HN: Yet another minimal and lightweight terminal multiplexer written in Go.,entertainment,34,16,patriceckhart,2026-08-29 17:53:50+00:00
+49467344,Writing for Developers Book,entertainment,24,0,cyndunlop,2026-08-29 17:51:32+00:00
+49475159,"Show HN: FnScribe – Open-source, offline dictation for macOS",entertainment,20,16,modagent,2026-08-29 17:50:35+00:00
+49481956,Show HN: Blast – Open-source sandbox-as-a-service,entertainment,10,0,calebhwin,2026-08-29 17:47:13+00:00
+49473333,Show HN: Pi-Black – Use Your Claude Max (Or Pro) Subscription with Pi,entertainment,8,3,paoloanzn,2026-08-29 17:53:13+00:00
+49485262,"Show HN: 500,000+ AOL Instant Messenger Buddy Icons All at Once",entertainment,7,0,shedletsky,2026-08-29 17:48:25+00:00
+49488996,Show HN: Qwiksi a CLI tool for adding your signature to a PDFs,entertainment,6,0,krisraven,2026-08-29 17:43:46+00:00
+49482939,"Show HN: Boop – tiny, self-hosted push notifications for your apps built in Go",entertainment,6,2,bustylasercanon,2026-08-29 17:50:28+00:00
+49487177,"Show HN: AMC Stocks Hub – asset-manager profiles, 13F holdings, and co-holdings",entertainment,4,1,lzyuan1006,2026-08-29 17:45:39+00:00
+49480960,Show HN: FeatureFlags.app – Feature Management for .NET,entertainment,4,2,avlcodemonkey,2026-08-29 17:49:22+00:00
+49486172,Our decision on Cursor following its acquisition by SpaceX,science,722,442,meetpateltech,2026-08-29 17:26:28+00:00
+49420530,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,science,230,108,brandonb,2026-08-29 17:36:16+00:00
+49481455,Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment,science,114,37,stephenchung,2026-08-29 17:26:50+00:00
+49490870,Nancy Grace Roman Space Telescope,science,40,7,JumpCrisscross,2026-08-29 17:26:04+00:00
+49477925,Interactive pattern discovery in binaries (FF-16-TUI),science,29,3,HexLasso,2026-08-29 17:28:20+00:00
+49466989,Why HPSC Is a Big Deal for Space Exploration,science,27,8,mooreds,2026-08-29 17:34:28+00:00
+49450500,Show HN: TexLite – A lightweight self-hosted LaTeX workspace,science,21,2,thisispi,2026-08-29 17:41:55+00:00
+49467699,Compromising Signal's Contact Discovery Enclave (SGX),science,12,4,RobLach,2026-08-29 17:36:02+00:00
+49477561,"Canada recruits foreign scientists, researchers poaching many from U.S.",science,12,1,BiraIgnacio,2026-08-29 17:38:39+00:00
+49453656,"In Hilbert Space, All Things Are Quantumly Possible",science,10,1,ibobev,2026-08-29 17:41:13+00:00
+49490132,Security researchers find surveillance implants in Chinese-made routers sold wor,science,8,6,newsomix9xl,2026-08-29 17:30:01+00:00
+49482833,Nancy Grace Roman Space Telescope Launches this Sunday,science,7,0,topspin,2026-08-29 17:39:34+00:00
+49422784,The entire city of San Francisco as a video game,sports,610,172,centrosphere,2026-08-29 17:19:34+00:00
+49466006,Decompiling a Nintendo 64 game in 84 days,sports,268,180,knackers,2026-08-29 17:15:33+00:00
+49456819,Europe's last regular standard-gauge steam passenger service,sports,90,24,GungulSurm,2026-08-29 17:10:12+00:00
+49459061,Meta's self-inflicted resignation-wave,sports,44,1,andsoitis,2026-08-29 17:24:05+00:00
+49489968,SteamOS 3.9.0 Preview,sports,25,13,EspadaV9,2026-08-29 17:11:05+00:00
+49463464,Two Alleged 'TeamPCP' Hackers Arrested in Australia,sports,20,2,hacb,2026-08-29 17:20:06+00:00
+49477217,"Show HN: Texttile, a multiplayer blog engine for people who write together",sports,13,3,klausbreyer,2026-08-29 17:16:21+00:00
+49480534,Mobile Games Designed to Be Addictive Get More Kid-Friendly,sports,8,0,BloodOrb2,2026-08-29 17:23:35+00:00
+49477732,Authorities arrest 2 alleged members of prolific hacking group TeamPCP,sports,8,0,furcyd,2026-08-29 17:24:50+00:00
+49487601,The Reliable Team Trap,sports,3,2,fagnerbrack,2026-08-29 17:17:41+00:00
+49458418,CEO fired developers to make room for AI. Developers create open source AI CEO,technology,1013,707,GrumpySciGuy,2026-08-29 16:55:43+00:00
+49477854,U.S. sanctions against the A/I Collective,technology,674,692,exiguus,2026-08-29 16:53:18+00:00
+49475079,Luanti removed from Google Play due to baseless AI copyright notice,technology,500,150,miniBill,2026-08-29 16:54:34+00:00
+49447057,The turbulent AI era is here,technology,347,611,nanna,2026-08-29 16:56:02+00:00
+49489982,"Debian votes to allow ""responsible use of generative AI""",technology,302,239,pluc,2026-08-29 16:52:47+00:00
+49468642,We found a division by zero bug in FFmpeg with a vibecoded fuzzer,technology,290,251,dclavijo,2026-08-29 16:55:36+00:00
+49474786,Sovereign Tech Agency invests €500k in Flatpak,technology,261,137,eigenspace,2026-08-29 16:55:02+00:00
+49450898,It’s so hard to finish an idea that is not yours and is just suggested by AI,technology,259,187,zazuke,2026-08-29 16:56:04+00:00
+49485416,I accidentally turned LLM memory into program analysis,technology,234,66,matt_d,2026-08-29 16:53:23+00:00
+49483816,Stopping the smart TV from being used against you,technology,190,147,speckx,2026-08-29 16:55:03+00:00
+49478091,I used AWS cognito for a startup. I wouldn't do it again,technology,184,129,speckx,2026-08-29 16:55:11+00:00
+49486081,"StemDeck, a free, open-source and local AI stem separator",technology,172,46,thclpr,2026-08-29 16:53:20+00:00
+49479072,Verschlimmbesserung: The Word Your Software Updates Need,technology,159,108,speckx,2026-08-29 16:53:53+00:00
+49464314,"MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",technology,141,82,pbui,2026-08-29 16:55:22+00:00
+49458875,Humanity has the debate about AI consciousness backwards,technology,116,365,semiquaver,2026-08-29 16:55:16+00:00
+49472820,Terminal-Bench-Science: Evaluating AI agents on scientific research workflows,technology,115,36,matt_d,2026-08-29 16:55:00+00:00
+49420524,"Show HN: Galaxium, an experimental WebGPU space explorer",technology,67,19,guillaumec,2026-08-29 16:53:04+00:00
+49484925,Identifying fake cosmetics using AI,technology,58,24,wgrover,2026-08-29 16:54:29+00:00
+49426995,SQLite as a Document Database (2020),technology,54,6,lioeters,2026-08-29 16:52:49+00:00
+49466715,Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots,technology,48,31,Salem_robotics,2026-08-29 16:55:46+00:00
+49415923,Sloc Cloc and Code 4.0 (scc) – Finding the files that need the most attention,technology,44,9,boyter,2026-08-29 16:54:27+00:00
+49477311,AI Agent Has Root,technology,40,67,lowcache,2026-08-29 16:56:08+00:00
+49487906,"ICANN de-accredits ""bulletproof"" domain registrar Trustname",technology,13,3,KomoD,2026-08-29 16:56:07+00:00
+49436886,The ArtQrCode a twist on the classic black and white Quick Response Code,technology,10,2,Bluestein,2026-08-29 16:55:44+00:00
+49489564,"Study links listening to live metal improves tolerance for pain, cold",technology,3,1,HieronymusBosch,2026-08-29 16:55:33+00:00
+49464391,"US Government designates host of noblogs.org a ""global terrorist""",worldnews,267,151,robtherobber,2026-08-29 16:58:46+00:00
+49432201,How credit card rewards became a $9.2B wealth transfer,worldnews,254,448,conbrian,2026-08-29 16:59:48+00:00
+49425800,Vintage Artificial Intelligence: Before It Got Awkward,worldnews,161,31,signor_bosco,2026-08-29 17:03:54+00:00
+49475979,Interactive Warhammer 40k Galaxy Map,worldnews,146,52,gbxyz,2026-08-29 16:57:28+00:00
+49468834,Previewing the Model Hardware Standard,worldnews,133,59,surprisetalk,2026-08-29 16:58:19+00:00
+49485532,Does the Sumerian King List Align with Paleoclimate Events?,worldnews,123,73,dev_l1x_be,2026-08-29 16:56:51+00:00
+49475404,"Climate change is strengthening El Niño, coral records suggest",worldnews,120,124,shymaple,2026-08-29 17:03:15+00:00
+49479898,"Barrier lake continues to pose flood risk, China warns",worldnews,89,22,r721,2026-08-29 16:59:13+00:00
+49422227,Characterizing Agentic Flooding of Government Services,worldnews,81,87,lensecat,2026-08-29 17:04:38+00:00
+49441316,Global demand for sand spawned a worldwide boom in illegal mining (2015),worldnews,71,28,EndXA,2026-08-29 16:57:21+00:00
+49467636,Dwarf Fortress is getting the mother of all magic updates,worldnews,43,4,Tomte,2026-08-29 17:06:43+00:00
+49435495,"Otto Dix, Nietzsche, and the Great War (2019)",worldnews,42,28,samizdis,2026-08-29 17:07:39+00:00
+49490702,GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE),worldnews,36,11,400thecat,2026-08-29 16:56:34+00:00
+49472416,"Australia is the safest place during a global catastrophe, study suggests",worldnews,27,18,thedreammachine,2026-08-29 17:07:28+00:00
+49439881,"Try Omarchy as a native, hardware-accelerated app on an Apple Silicon Mac",worldnews,23,2,jbverschoor,2026-08-29 17:08:12+00:00
+49479872,Army Awards $2.2B for 'Microreactors' On U.S. Bases,worldnews,18,3,lxm,2026-08-29 17:03:03+00:00
+49454366,Six government passport CAs that Python rejects and OpenSSL accepts,worldnews,18,6,Eginn-33,2026-08-29 17:06:21+00:00
+49473279,Are Vandals Winning the War on Flock Cameras? [video],worldnews,18,1,Cider9986,2026-08-29 17:09:10+00:00
+49448173,"Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",worldnews,12,0,_ache_,2026-08-29 17:08:56+00:00
+49485316,Xylitol linked to strokes and heart attacks,worldnews,10,2,yonibot,2026-08-29 17:04:22+00:00
+49487089,Global Trade and United States Navy,worldnews,4,0,Tomte,2026-08-29 17:02:02+00:00
